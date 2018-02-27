@@ -7,7 +7,7 @@
 入出力画像のN数、バイアス、ラベルの出来具合は適切ではないかもしれないので、予めご了承ください。
 
 また、SegNetは2015年に発表されたモデルであり、手法としてはやや古いです。
-おそらく最新の手法（例：[PSPNet](https://arxiv.org/abs/1612.01105)の方が、よりうまく抽出してくれるでしょう。
+おそらく最新の手法（例：[PSPNet](https://arxiv.org/abs/1612.01105)）の方が、よりうまく抽出してくれるでしょう。
 
 (semantic segmentationの技術的進化を俯瞰したい場合は：[セマンティックセグメンテーションのガイド2017年版](https://postd.cc/semantic-segmentation-deep-learning-review/)を参考にどうぞ）
 

@@ -1,5 +1,5 @@
 # segnet_gyoza
-[SegNet](https://arxiv.org/abs/1511.00561)により、餃子の領域抽出を行ったものです。
+[SegNet](https://arxiv.org/abs/1511.00561)で、餃子の領域抽出を行います。
 ソースコードは、[keras(tensorflow)でSegNet](https://qiita.com/uni-3/items/a62daa5a03a02f5fa46d)を参考に作成しています。
 
 ## 注意事項

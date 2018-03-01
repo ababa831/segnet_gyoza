@@ -9,7 +9,7 @@
 また、SegNetは2015年に発表されたモデルであり、手法としてはやや古いです。
 おそらく最新の手法（例：[PSPNet](https://arxiv.org/abs/1612.01105)）の方が、よりうまく抽出してくれるでしょう。
 
-(semantic segmentationの技術的進化を俯瞰したい場合は：[セマンティックセグメンテーションのガイド2017年版](https://postd.cc/semantic-segmentation-deep-learning-review/)を参考にどうぞ）
+(semantic segmentationの技術的進歩を俯瞰したい場合は：[セマンティックセグメンテーションのガイド2017年版](https://postd.cc/semantic-segmentation-deep-learning-review/)を参考にどうぞ）
 
 ## 各ファイルの説明
 - **segmentation.ipynb**  
